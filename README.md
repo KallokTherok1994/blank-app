@@ -12,7 +12,13 @@ A simple Streamlit app template for you to modify!
    $ pip install -r requirements.txt
    ```
 
-2. Run the app
+2. Start the backend server in a separate terminal
+
+   ```
+   $ python server.py
+   ```
+
+3. Run the Streamlit app
 
    ```
    $ streamlit run streamlit_app.py
